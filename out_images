@@ -1,0 +1,14 @@
+output.png1
+Temperature : 35 °C
+Humidity : 78 %
+
+Temperature Alert : HIGH
+Humidity Alert : HIGH
+
+
+output.png2
+Temperature : 25 °C
+Humidity : 45 %
+
+Temperature Alert : NORMAL
+Humidity Alert : NORMAL
